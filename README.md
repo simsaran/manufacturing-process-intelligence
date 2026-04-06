@@ -2,7 +2,7 @@
 
 > **Interactive DMAIC continuous improvement platform for food packaging operations**
 
-🔗 **[Live Demo]([YOUR_STACKBLITZ_URL_HERE](https://react-dtrmxrkl.stackblitz.io/))** | 📊 **Power BI Dashboard** (screenshots below) | 📓 **[Python Notebook](YOUR_COLAB_LINK_HERE)**
+🔗 **[Live Demo]([YOUR_STACKBLITZ_URL_HERE][https://react-dtrmxrkl.stackblitz.io/])** | 📊 **Power BI Dashboard** (screenshots below) | 📓 **[Python Notebook](YOUR_COLAB_LINK_HERE)**
 
 ---
 
