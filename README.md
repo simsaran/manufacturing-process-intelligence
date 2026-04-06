@@ -2,7 +2,7 @@
 
 > **Interactive DMAIC continuous improvement platform for food packaging operations**
 
-🔗 **[Live Demo]((https://react-dtrmxrkl.stackblitz.io/))** | 📊 **Power BI Dashboard** (screenshots below) | 📓 **[Python Notebook](YOUR_COLAB_LINK_HERE)**
+🔗 **[Live Demo]([YOUR_STACKBLITZ_URL_HERE](https://react-dtrmxrkl.stackblitz.io/))** | 📊 **Power BI Dashboard** (screenshots below) | 📓 **[Python Notebook](YOUR_COLAB_LINK_HERE)**
 
 ---
 
@@ -144,9 +144,11 @@ manufacturing-process-intelligence/
 
 ## 👤 About
 
-Built by **Simran** as a process improvement portfolio project demonstrating end-to-end DMAIC methodology with technical implementation.
+Built by **Shivansh** as a process improvement portfolio project demonstrating end-to-end DMAIC methodology with technical implementation.
 
-**Bachelor of Science** | University of Waterloo | 2026
+**BSc Business + Computing** | University of Waterloo | 2026
+
+**Certifications:** SOA Actuarial Exams (P, FM, IFM) | CAS MAS-1 | Google Data Analytics | Microsoft AI-900
 
 **Contact:** [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/YOUR_USERNAME)
 
