@@ -81,7 +81,25 @@ This project applies the **DMAIC methodology** (Lean Six Sigma) to identify root
 - Before/After Validation: OEE 64.2% to 82.4%
 
 ---
+## Screenshots
+### Interactive DMAIC Platform
+![Define Tab](docs/screenshots/tab1_define.png)
 
+![Measure Tab](docs/screenshots/tab2_measure.png)
+
+![Analyze Tab](docs/screenshots/tab3_analyze.png)
+
+![Improve Tab](docs/screenshots/tab4_improve.png)
+
+![Control Tab](docs/screenshots/tab5_control.png)
+
+![Results Tab](docs/screenshots/tab6_results1.png)
+
+### Power BI Dashboard
+
+![Power BI Dashboard](docs/screenshots/POWER BI DASHBOARD.pdf)
+
+---
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Recharts, D3.js
