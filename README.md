@@ -97,7 +97,7 @@ This project applies the **DMAIC methodology** (Lean Six Sigma) to identify root
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](docs/screenshots/POWER BI DASHBOARD.pdf)
+![Power BI Dashboard](docs/screenshots/powerbi_dashboard.png)
 
 ---
 ## 🛠️ Tech Stack
