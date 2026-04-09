@@ -1,5 +1,5 @@
 
-# 🏭 Manufacturing Process Intelligence Platform
+# Manufacturing Process Intelligence Platform
 
 **Interactive DMAIC continuous improvement platform for food packaging operations**
 
@@ -7,7 +7,7 @@
 [https://REPLACE_STACKBLITZ_URL](https://react-dtrmxrkl.stackblitz.io/)
 ---
 
-## 🎯 Executive Summary
+## Executive Summary
 
 A food packaging plant is experiencing rising defect rates (4.2% vs 2.0% target) and declining OEE (64% vs 85% world class). Night shift performance lags day shift by 18 percentage points. Annual cost of poor quality: **$312K**.
 
@@ -15,7 +15,7 @@ This project applies the **DMAIC methodology** (Lean Six Sigma) to identify root
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
@@ -26,7 +26,7 @@ This project applies the **DMAIC methodology** (Lean Six Sigma) to identify root
 
 ---
 
-## 🔧 Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 | Skill | Where It Appears |
 |-------|-----------------|
@@ -49,7 +49,7 @@ This project applies the **DMAIC methodology** (Lean Six Sigma) to identify root
 
 ---
 
-## 🏗️ DMAIC Methodology
+## DMAIC Methodology
 
 ### Phase 1: Define
 - Project Charter with problem statement, goal, scope, and projected savings
@@ -131,7 +131,7 @@ manufacturing-process-intelligence/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ```
 git clone https://github.com/REPLACE_GITHUB_USERNAME/manufacturing-process-intelligence.git
@@ -144,7 +144,7 @@ Then open http://localhost:3000
 
 ---
 
-## 👤 About
+## About
 
 Built by **Simran** as a process improvement portfolio project demonstrating end-to-end DMAIC methodology with technical implementation.
 
